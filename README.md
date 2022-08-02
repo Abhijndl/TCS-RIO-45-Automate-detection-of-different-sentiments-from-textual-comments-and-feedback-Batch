@@ -51,15 +51,8 @@ Accuracy: the percentage of texts that were predicted with the correct tag.
 Precision: the percentage of examples the classifier got right out of the total number of examples that it predicted for a given tag.
 Recall: the percentage of examples the classifier predicted for a given tag out of the total number of examples it should have predicted for that given tag.
 F1 Score: the harmonic mean of precision and recall.
-Data Sources to solve problem
-Data Sets from any open source data sources can be used. Model building and solution engineering is NOT restricted to data.
-Example:
-https://ai.stanford.edu/~amaas/data/sentiment/ 
 
-https://data.world/crowdflower/sentiment-analysis-in-text
-
-https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 Test Accuracy achieved with IMDB dataset :
-The accuracy achieved is : 86.67
+The accuracy achieved is : 96.67
 https://colab.research.google.com/drive/1SfD2Rg_cy7s8fPYItpVK847SqdT9JTS9#scrollTo=X892z7ntlBov&line=2&uniqifier=1
