@@ -55,4 +55,3 @@ F1 Score: the harmonic mean of precision and recall.
 
 Test Accuracy achieved with IMDB dataset :
 The accuracy achieved is : 96.67
-https://colab.research.google.com/drive/1SfD2Rg_cy7s8fPYItpVK847SqdT9JTS9#scrollTo=X892z7ntlBov&line=2&uniqifier=1
